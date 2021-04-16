@@ -6,6 +6,8 @@ Password and instruction are included
 
 Freeupload: Use ublock Origin or universal bypass extension to boost countdown and block ads
 
+If you want to keep up-to-date, use Tor Browser and visit this onion webpage http://fuckilfakp5d6a5t.onion/. Here you can download any versions of IDA Pro, SDK etc. Keep in mind, new update does not mean it will be leaked just yet. Wait for any leakers to leak out latest IDA Pro. It can take long time to do
+
 ### **7.5 (With ALL decompilers) (Windows)**
 Google Drive
 - 7.5.20.1028 SP3 Portable: https://drive.google.com/file/d/1BWuGxpLbOasHVQB7DDRB0_1a3R2BW5-n/view
