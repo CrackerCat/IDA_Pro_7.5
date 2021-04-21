@@ -25,11 +25,11 @@ If you want to keep up-to-date, use Tor Browser and visit this onion webpage htt
 **7.3 (Windows) (No decompiler)**
 - https://dowsfile.com/file/ZA2WZH3XXPMQQSC
 - https://freeupload.info/file/2802DB2CE1A9E5371311350B57226191
-- 
+
 **7.2 (Windows) (No decompiler)**
 - https://dowsfile.com/file/VFMXDOJCN8BRUMQ
 - https://freeupload.info/file/7A758A61420BDDE1367D6CEDF304AE28
-- 
+
 **7.0 (Windows & Mac)**
 - https://dowsfile.com/file/VYMFOJ3PHZW9MQN
 - https://freeupload.info/file/D677518A3A5672B3ADE32FCF34264B40
