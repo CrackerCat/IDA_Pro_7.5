@@ -3,7 +3,7 @@ Hurry, get them and mirror them before it got deleted
 
 Password and instruction are included
 
-If you want to keep up-to-date, use Tor Browser and visit this onion webpage http://fuckilfakp5d6a5t.onion/. Here you can download any versions of IDA Pro, SDK etc. Keep in mind, new update does not mean it will be leaked just yet. Wait for any leakers to leak out latest IDA Pro. It can take long time to do
+If you want to keep up-to-date, use Tor Browser and visit this onion webpage http://fckilfkscwusoopguhi7i6yg3l6tknaz7lrumvlhg5mvtxzxbbxlimid.onion/. Here you can download any versions of IDA Pro, SDK etc. Keep in mind, new update does not mean it will be leaked just yet. Wait for any leakers to leak out latest IDA Pro. It can take long time to do
 
 **It is highly recommended that you use an Adblocker extension. Use ublock Origin!**
 
